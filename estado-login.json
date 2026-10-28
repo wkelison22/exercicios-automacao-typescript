@@ -1,0 +1,26 @@
+{
+  "cookies": [],
+  "origins": [
+    {
+      "origin": "https://alisonmelo.github.io",
+      "localStorage": [
+        {
+          "name": "failedAttempts_admin@system.com",
+          "value": "0"
+        },
+        {
+          "name": "token",
+          "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhYmU1MTllMzg0ZjA0ZGYxNmM2MTRmOSIsInJvbGUiOiJhZG1pbiIsImVtYWlsIjoiYWRtaW5Ac3lzdGVtLmNvbSIsImlhdCI6MTc5MzIyODMxNywiZXhwIjoxNzkzMjMxOTE3fQ.VXynfxkNAaRUFty2EznHKHVXv74OwIhau8mqDthYmVw"
+        },
+        {
+          "name": "isAuthenticated",
+          "value": "true"
+        },
+        {
+          "name": "currentUser",
+          "value": "{\"email\":\"admin@system.com\",\"name\":\"Administrador\",\"role\":\"admin\"}"
+        }
+      ]
+    }
+  ]
+}
