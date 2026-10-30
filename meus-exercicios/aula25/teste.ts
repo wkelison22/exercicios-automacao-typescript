@@ -1,0 +1,1 @@
+console.log("exercicio 25: provando que o typecript esta funcionando");
